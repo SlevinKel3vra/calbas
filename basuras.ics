@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Prueba//Basura//ES
+X-WR-CALNAME:Basuras
 
 BEGIN:VEVENT
 UID:event-plastico-001
